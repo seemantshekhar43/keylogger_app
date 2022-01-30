@@ -2,7 +2,8 @@
 
 ## Problem Statement
 Design a keylogger.
-####Expected Features:
+
+#### Expected Features:
 1. Capture all strokes of keys
 2. Work in all Operating system.
 3. Hidden from the Antivirus.
@@ -38,12 +39,12 @@ Keylogger app is a Java application is a simple key logging software that has th
 Note: In case your IDE does not detect the `jnativehook` library, then [add jnativehook-2.2.1.jar file present in lib directory as external jars](http://www.wikihow.com/Add-JARs-to-Project-Build-Paths-in-Eclipse-(Java)).
 
 
-## How to Run Keylogger [Using an IDE]
+## How to Run Keylogger [Without using an IDE]
 
-1. Download the latest binary from the release and unzip the contents.
+1. Download the latest binary from the release section and unzip binary.
 2. Execute `runner.bat` from compiled folder. 
 3. Now your keylogger application is up and running. You can verify the same in Task Manager.
-4. To stop the app. Press `F11` key.
+4. Press `F11` key to stop the app.
 5. You can find generated log file in the same directory.
 
 ## Supported OS
@@ -78,7 +79,7 @@ Note: In case your IDE does not detect the `jnativehook` library, then [add jnat
    * libpthread.so.0
 
 ### Future Scopes
-* Allow user to select desired key combination to end keylogger app.
+* Allow users to select desired key combination to stop keylogger app.
 * Mouse clicks, scrolls and positions can also be logged.
 * Convert this console application to a maven or gradle project. 
 
