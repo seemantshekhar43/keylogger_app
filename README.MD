@@ -12,7 +12,7 @@ Design a keylogger.
 Keylogger app is a Java application that has basic functionalities of key logging software. Three primary goals of this app are:
 1. Execute in hidden mode in background.
 2. Detect and capture Keystrokes.
-3. Generate keystrokes log in a file.
+3. Save keystrokes log in a text file.
 
 ## Technology used
 - JAVA
@@ -42,7 +42,7 @@ Note: In case your IDE does not detect the `jnativehook` library, then [add jnat
 ## How to Run Keylogger [Without using an IDE]
 
 1. Download the latest binary from the release section and unzip binary.
-2. Execute `runner.bat` from compiled folder. 
+2. Execute `runner.bat` batch file. 
 3. Now your keylogger application is up and running. You can verify the same in Task Manager.
 4. Press `F11` key to stop the app.
 5. You can find generated log file in the same directory.
