@@ -1,4 +1,4 @@
-package com.seemantshekhar;
+package com.keylogger;
 
 import com.github.kwhat.jnativehook.GlobalScreen;
 import com.github.kwhat.jnativehook.NativeHookException;
