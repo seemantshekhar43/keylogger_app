@@ -9,7 +9,7 @@ Design a keylogger.
 3. Hidden from the Antivirus.
 
 ## Overview
-Keylogger app is a Java application that has basic funtionalities of key logging software. Three primary goals of this app are:
+Keylogger app is a Java application that has basic functionalities of key logging software. Three primary goals of this app are:
 1. Execute in hidden mode in background.
 2. Detect and capture Keystrokes.
 3. Generate keystrokes log in a file.
