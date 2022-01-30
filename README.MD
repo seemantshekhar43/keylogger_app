@@ -43,7 +43,7 @@ Note: In case your IDE does not detect the `jnativehook` library, then [add jnat
 1. Download the latest binary from the release and unzip the contents.
 2. Execute `runner.bat` from compiled folder. 
 3. Now your keylogger application is up and running. You can verify the same in Task Manager.
-4. To stop the app. Press `F9` key.
+4. To stop the app. Press `F11` key.
 5. You can find generated log file in the same directory.
 
 ## Supported OS
